@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPv6ShortenderExtender", "IPv6ShortenderExtender.csproj", "{A9B9D52C-256A-41EA-966D-81C92A864D51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9B9D52C-256A-41EA-966D-81C92A864D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B9D52C-256A-41EA-966D-81C92A864D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B9D52C-256A-41EA-966D-81C92A864D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B9D52C-256A-41EA-966D-81C92A864D51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEDF4B7E-0790-464F-AA32-5A1C752A7FFF}
+	EndGlobalSection
+EndGlobal
